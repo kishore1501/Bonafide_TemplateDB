@@ -1,0 +1,42 @@
+/* Bordering */
+.box {
+    margin: 20px;
+    border: solid 2px black;
+    padding: 10px;
+}
+
+/* Logo positioning */
+.logo {
+    text-align: right;
+    margin-right: 30px;
+}
+
+/* Header positioning */
+.container {
+    text-align: center;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: black;
+    max-width: 50%;
+}
+
+.seal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.seal-right {
+    margin-left: auto;
+    font-weight: bolder;
+}
+
+.double-underline {
+    border-bottom: 3px double black;
+    width: 50vw;
+    margin: 0 auto;
+    /* to center the double underline horizontally */
+}

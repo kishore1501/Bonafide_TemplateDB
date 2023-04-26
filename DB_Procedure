@@ -1,0 +1,7 @@
+Step-1: Install xampp server
+
+Step-2: Turn on apache and Sql
+
+step-3: open phpmyadmin using 'localhost/phpmyadmin'
+
+step-4: import 'persominfo.sql' into the phpmyadmin. DB is ready
