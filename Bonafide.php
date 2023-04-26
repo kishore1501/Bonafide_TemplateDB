@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <!-- Getting Content from 'homepage' table in 'lascomdb' and 'id=6'  -->
+    <!-- Getting Content from 'persominfo' table in 'bonefide' and 'id=1'  -->
     <p>
         <?php
         //database connection
